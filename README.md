@@ -24,7 +24,7 @@ This repository contains an AI-powered application that generates medical prescr
 1. Clone the repository:
    ```bash
    git clone https://github.com/akumar-9/ai-based-voice-prescription.git
-   cd ai-voice-prescription
+   cd ai-based-voice-prescription
    ```
 
 2. Install required dependencies:
@@ -32,7 +32,7 @@ This repository contains an AI-powered application that generates medical prescr
    pip install -r requirements.txt
    ```
 
-3. Ensure the `prescription-templete.jpg` is placed in the `templete` folder.
+3. Ensure the `prescription-template.jpg` is placed in the `template` folder.
 
 ## Usage
 
