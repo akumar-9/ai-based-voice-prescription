@@ -1,0 +1,5 @@
+opencv-python
+Pillow
+speechrecognition
+pyttsx3
+smtplib
